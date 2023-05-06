@@ -1,7 +1,8 @@
 {
   "homepage": "https://Razvi42.github.io/zodiac-app",
   "dependencies": {
-    "react-router": "^6.10.0"
+    "react-router": "^6.10.0",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
